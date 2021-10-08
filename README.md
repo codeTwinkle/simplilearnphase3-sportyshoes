@@ -1,6 +1,6 @@
 # simplilearnphase3-sportyshoes
 Sporty Shoes
-The code for the project is hosted on: 
+The code for the project is hosted on: https://github.com/codeTwinkle/simplilearnphase3-sportyshoes.git
 Project Developer:  Twinkle Chugh
 
 This document contains the following sections:
@@ -12,7 +12,7 @@ This document contains the following sections:
 
 Sprint Planning and Task Completion
 
-Note: A separate document for sprint planning is attached to the Zip.
+
 
 The project is planned to be completed in two Sprints. The task assumed to be completed are:
 Sprint 1:
